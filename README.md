@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antonio</h1>
+<h1 align="center">Hi! I'm Antonio 👋</h1>
 
 I am a person of insatiable curiosity, fascinated by the functioning of everything around me since my birth. I have a deep bond with technology, driven by a strong desire to fully understand how it works.
 My passion for discovery and a willingness to make a difference drive me to be a workaholic in software development. I chose this path because I believe in the power of teamwork and the ability to create something really useful for the company.
